@@ -1,0 +1,16 @@
+# Godot 4
+.godot/
+*.tmp
+*.import
+
+# Android / export output and secrets
+*.apk
+*.aab
+*.keystore
+*.jks
+android/build/
+android/.gradle/
+
+# Editor files
+.vscode/
+.idea/
